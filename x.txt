@@ -1,2 +1,4 @@
 test clone
 Modified file
+merged file
+modified in Original
